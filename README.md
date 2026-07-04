@@ -61,16 +61,3 @@ ApexPlanet-Task1/
 - Add a contact section.
 - Deploy the project online using GitHub Pages.
 
-## Author
-
-Leela Krishna
-
-B.Tech CSE
-
-Mohan Babu University
-
-## Internship
-
-ApexPlanet Software Pvt. Ltd.
-
-45 Days Web Development Internship
