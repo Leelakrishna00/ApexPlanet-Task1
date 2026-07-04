@@ -1,52 +1,76 @@
 # ApexPlanet Internship - Task 1
 
-## 📌 Task Name
-Task 1 - Basics of Web Development
+## Task Name
 
-## 🎯 Objective
-Learn and apply foundational HTML, CSS, and JavaScript concepts by creating a responsive webpage with basic styling and interactive functionality.
+Basics of Web Development
 
-## 📖 Task Description
-This project was developed as part of the ApexPlanet Web Development Internship. The objective was to understand the fundamentals of front-end development by building a modern landing page using HTML, CSS, and JavaScript.
+## Project Description
 
-## ✅ Features
-- Responsive Landing Page
-- Navigation Bar
-- Hero Section
-- Attractive UI Design
-- Responsive Layout
-- Interactive Button using JavaScript
-- Modern Typography and Color Scheme
-- Mobile Friendly Design
+This project was developed as part of the ApexPlanet Web Development Internship. The objective was to understand the basics of HTML, CSS, and JavaScript by creating a responsive landing page with a clean design and simple user interaction.
 
-## 🛠 Technologies Used
+## Objective
+
+- Build a webpage using HTML.
+- Style the webpage using CSS.
+- Add basic interactivity using JavaScript.
+- Create a responsive layout for different screen sizes.
+
+## Features
+
+- Responsive landing page
+- Navigation bar
+- Hero section
+- Interactive button
+- Mobile-friendly design
+- Modern user interface
+
+## Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 
-## 📂 Project Structure
+## Project Structure
 
+```
 ApexPlanet-Task1/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
+│── screenshots/
+```
 
-## 🚀 Learning Outcomes
-- Learned HTML page structure
-- Applied CSS styling techniques
-- Created responsive layouts
-- Implemented JavaScript interactivity
-- Improved front-end development skills
+## How to Run
 
-## 📷 Output
-A modern responsive landing page that adapts to different screen sizes and includes an interactive button for user engagement.
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your web browser.
 
-## 👨‍💻 Author
+## Learning Outcomes
+
+- Learned the structure of HTML.
+- Applied CSS for webpage styling.
+- Used JavaScript for basic interactivity.
+- Understood responsive web design.
+
+## Future Improvements
+
+- Add more sections to the landing page.
+- Improve animations.
+- Add a contact section.
+- Deploy the project online using GitHub Pages.
+
+## Author
+
 Leela Krishna
+
 B.Tech CSE
+
 Mohan Babu University
 
-## 📌 Internship
+## Internship
+
 ApexPlanet Software Pvt. Ltd.
-Web Development Internship
+
+45 Days Web Development Internship
